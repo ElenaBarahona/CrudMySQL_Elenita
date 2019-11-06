@@ -4,6 +4,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+import com.example.CrudMySQL_Elena.R;
+
 public class Consulta_Recyclerview extends AppCompatActivity {
 
     @Override
