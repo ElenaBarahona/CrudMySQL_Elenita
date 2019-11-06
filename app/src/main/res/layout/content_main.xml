@@ -7,7 +7,7 @@
     android:orientation="vertical"
     android:background="#303F50"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context=".MainActivity"
+    tools:context="com.example.crudmysql_elena.MainActivity"
     tools:showIn="@layout/activity_main">
 
     <TextView
